@@ -32,3 +32,7 @@ for (int i = 0; i < numberOfRecords; i++)
 7. Print the objects in recordList to the screen
 8. Upload to the repository we created earlier on your Github account.
 9. Turn in the knowledge check in Google Classroom. Make sure you include the link to your new GitHub repository when you "Turn In" the assignment.
+
+
+
+My Update - Scott
