@@ -1,0 +1,15 @@
+C:\Projects\test3\SuperTest\obj\Debug\net7.0\SuperTest.csproj.AssemblyReference.cache
+C:\Projects\test3\SuperTest\obj\Debug\net7.0\SuperTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\test3\SuperTest\obj\Debug\net7.0\SuperTest.AssemblyInfoInputs.cache
+C:\Projects\test3\SuperTest\obj\Debug\net7.0\SuperTest.AssemblyInfo.cs
+C:\Projects\test3\SuperTest\obj\Debug\net7.0\SuperTest.csproj.CoreCompileInputs.cache
+C:\Projects\test3\SuperTest\bin\Debug\net7.0\SuperTest.exe
+C:\Projects\test3\SuperTest\bin\Debug\net7.0\SuperTest.deps.json
+C:\Projects\test3\SuperTest\bin\Debug\net7.0\SuperTest.runtimeconfig.json
+C:\Projects\test3\SuperTest\bin\Debug\net7.0\SuperTest.dll
+C:\Projects\test3\SuperTest\bin\Debug\net7.0\SuperTest.pdb
+C:\Projects\test3\SuperTest\obj\Debug\net7.0\SuperTest.dll
+C:\Projects\test3\SuperTest\obj\Debug\net7.0\refint\SuperTest.dll
+C:\Projects\test3\SuperTest\obj\Debug\net7.0\SuperTest.pdb
+C:\Projects\test3\SuperTest\obj\Debug\net7.0\SuperTest.genruntimeconfig.cache
+C:\Projects\test3\SuperTest\obj\Debug\net7.0\ref\SuperTest.dll
